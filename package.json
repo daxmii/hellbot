@@ -6,7 +6,7 @@
     "node": "8.12.0"
   },
   "main": "node.js"
-  "scripts": {
+  "scripts" {
     "start": "node bot.js"
 },
   "repository": {
