@@ -8,11 +8,11 @@
   "main": "node.js"
   "scripts" {
     "start": "node bot.js"
-},
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/daxmii/hellbot"
-},
+   },
   "dependencies": {
     "discord.js": "*"
   }
